@@ -1,0 +1,1 @@
+TWRP device tree for Xiaomi Mi 2/2S Aries. Omni build.
