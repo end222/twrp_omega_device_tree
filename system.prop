@@ -1,3 +1,8 @@
 #
 # system.prop for omega
 #
+
+ro.build.product=omega
+ro.product.model=Redmi_Pro
+ro.product.name=Redmi_pro
+ro.product.device=omega
