@@ -65,7 +65,7 @@ TW_INTERNAL_STORAGE_PATH := "/data/media"
 TW_INTERNAL_STORAGE_MOUNT_POINT := "data"
 TW_EXTERNAL_STORAGE_PATH := "/external_sd"
 TW_EXTERNAL_STORAGE_MOUNT_POINT := "external_sd"
-
+TW_INCLUDE_CRYPTO := true
 #Use old default.prop
 TARGET_RECOVERY_DEVICE_DIRS += device/xiaomi/omega
 
